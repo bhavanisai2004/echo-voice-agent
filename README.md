@@ -252,6 +252,4 @@ echo-voice-agent/
 ├── .gitignore      # Ignores venv and .env
 └── README.md       # This file
 ```
-
----
-
+<img width="1919" height="1035" alt="Screenshot 2026-02-24 194728" src="https://github.com/user-attachments/assets/2683952b-0e0e-41bb-9a3f-75ccfe7b5ce4" />
