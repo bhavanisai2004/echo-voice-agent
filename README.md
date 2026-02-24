@@ -251,7 +251,8 @@ echo-voice-agent/
 ├── .env            # Your credentials (never commit this!)
 ├── .gitignore      # Ignores venv and .env
 └── README.md       # This file
-```<img width="973" height="170" alt="Screenshot 2026-02-24 214946" src="https://github.com/user-attachments/assets/20e13f4d-a86a-44eb-8e48-baf5aeec25c4" />
+```
+<img width="973" height="170" alt="Screenshot 2026-02-24 214946" src="https://github.com/user-attachments/assets/20e13f4d-a86a-44eb-8e48-baf5aeec25c4" />
 
 <img width="1767" height="681" alt="Screenshot 2026-02-24 215015" src="https://github.com/user-attachments/assets/aece500f-51a7-4956-9ec9-f1c69a570a8d" />
 
