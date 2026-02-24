@@ -253,5 +253,7 @@ echo-voice-agent/
 └── README.md       # This file
 ```
 <img width="1500" height="753" alt="Screenshot 2026-02-24 214946" src="https://github.com/user-attachments/assets/65c40b48-dca0-46b0-8f63-d4d3e7253505" />
+<img width="1767" height="681" alt="Screenshot 2026-02-24 215015" src="https://github.com/user-attachments/assets/aece500f-51a7-4956-9ec9-f1c69a570a8d" />
+
 
 <img width="1919" height="1035" alt="Screenshot 2026-02-24 194728" src="https://github.com/user-attachments/assets/2683952b-0e0e-41bb-9a3f-75ccfe7b5ce4" />
